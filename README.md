@@ -1,6 +1,6 @@
 # 🛡️ Proxy Subscription Generator
 
-**PSG** is a lightweight PHP-based tool designed to generate proxy subscription links for various VPN clients like Clash, Surfboard, Singbox, and more. It simplifies the process of aggregating and formatting proxy configurations from multiple sources into user-friendly subscription formats.
+lightweight PHP-based tool designed to generate proxy subscription links for various VPN clients like Clash, Surfboard, Singbox, and more. It simplifies the process of aggregating and formatting proxy configurations from multiple sources into user-friendly subscription formats.
 
 ## 🌐 Main Interface
 
@@ -17,7 +17,6 @@ Access the subscription links through the main UI:
 
 ## 📊 Stars History
 
-![Star History Chart](https://api.star-history.com/svg?repos=itsyebekhe/PSG&type=Date)
 
 ## 🧑‍💻 Contributors
 
